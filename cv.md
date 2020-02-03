@@ -300,4 +300,5 @@ int main()
 6. Experience : coding tests, projects from university
 7. Education: online learning in Codeacademy (https://www.codecademy.com/users/LolkaXodyachya/achievements)
 8. English: Upper-Intermediate 
+
 ![Image](https://propostuplenie.ru/website/navigator/var/custom/file/gbp-h.jpg)
